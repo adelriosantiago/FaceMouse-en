@@ -1,0 +1,16 @@
+C:\Users\computer\Documents\Visual Studio 2010\Projects\facemouse-en\facereco_test\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\computer\Documents\Visual Studio 2010\Projects\facemouse-en\facereco_test\obj\x86\Release\FaceMouse.Main.resources
+C:\Users\computer\Documents\Visual Studio 2010\Projects\facemouse-en\facereco_test\obj\x86\Release\FaceMouse.Properties.Resources.resources
+C:\Users\computer\Documents\Visual Studio 2010\Projects\facemouse-en\facereco_test\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\computer\Documents\Visual Studio 2010\Projects\facemouse-en\facereco_test\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\computer\Documents\Visual Studio 2010\Projects\facemouse-en\facereco_test\bin\Release\FaceMouse.exe.config
+C:\Users\computer\Documents\Visual Studio 2010\Projects\facemouse-en\facereco_test\bin\Release\FaceMouse.exe.manifest
+C:\Users\computer\Documents\Visual Studio 2010\Projects\facemouse-en\facereco_test\bin\Release\FaceMouse.application
+C:\Users\computer\Documents\Visual Studio 2010\Projects\facemouse-en\facereco_test\bin\Release\FaceMouse.exe
+C:\Users\computer\Documents\Visual Studio 2010\Projects\facemouse-en\facereco_test\bin\Release\FaceMouse.pdb
+C:\Users\computer\Documents\Visual Studio 2010\Projects\facemouse-en\facereco_test\bin\Release\libpxcclr.dll
+C:\Users\computer\Documents\Visual Studio 2010\Projects\facemouse-en\facereco_test\obj\x86\Release\FaceMouse.exe.manifest
+C:\Users\computer\Documents\Visual Studio 2010\Projects\facemouse-en\facereco_test\obj\x86\Release\FaceMouse.application
+C:\Users\computer\Documents\Visual Studio 2010\Projects\facemouse-en\facereco_test\obj\x86\Release\FaceMouse.exe
+C:\Users\computer\Documents\Visual Studio 2010\Projects\facemouse-en\facereco_test\obj\x86\Release\FaceMouse.pdb
+C:\Users\computer\Documents\Visual Studio 2010\Projects\facemouse-en\facereco_test\obj\x86\Release\FaceMouse.FirstTimeRun.resources
